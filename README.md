@@ -1,2 +1,3 @@
-# duet-prototype1
-Duet Prototype 1
+# Duet Prototype 1
+
+TBD
